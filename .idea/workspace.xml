@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9177b0f1-2502-44d4-a837-dd134e972b3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/image-converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini-projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex/bulbasaur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/bulbasaur.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex/charmander.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/charmander.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex/pikachu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/pikachu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokedex/squirtle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/squirtle.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="be68677f-6b6f-452b-a4cf-bb59349b75ba" />
+        <option name="url" value="https://github.com/eduardoegb/image-converter.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
   <component name="ProjectId" id="1rXwm5E9x1VSybR8Wf78a3ef0gR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,10 +48,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image-converter" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/converter" />
       <recent name="$PROJECT_DIR$/pokedex" />
     </key>
   </component>
@@ -69,5 +92,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 import sys
-from converter import converter
+
+from image_converter import converter
 
 converter(sys.argv)
