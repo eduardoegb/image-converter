@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9177b0f1-2502-44d4-a837-dd134e972b3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/dummy.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/tilt.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/twopage.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/wtr.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_merger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
