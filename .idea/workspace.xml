@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9177b0f1-2502-44d4-a837-dd134e972b3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/image-converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini-projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/dummy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/tilt.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/twopage.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/wtr.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf_merger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokedex/bulbasaur.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/bulbasaur.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokedex/charmander.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/charmander.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokedex/pikachu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/pikachu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokedex/squirtle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image-converter/pokedex/squirtle.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +51,62 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/image-converter" />
+      <recent name="$PROJECT_DIR$/assets/pdfs" />
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/image-converter" />
       <recent name="$PROJECT_DIR$/converter" />
-      <recent name="$PROJECT_DIR$/pokedex" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pdf_merger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf_merger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.pdf_merger" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
